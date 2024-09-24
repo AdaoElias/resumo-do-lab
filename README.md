@@ -34,7 +34,7 @@ Desvantagens: Custos mais altos e necessidade de gerenciamento e manutenção pr
 Desvantagens: Complexidade na gestão e integração dos dois ambientes12.
 
 
-## 4. Custo capital versus custo operacional
+## 4. Custo Capital VS Custo operacional
 • **Custo capital (CapEx)**: Refere-se aos gastos com aquisição de ativos físicos, como servidores e data centers. Esses custos são geralmente altos e requerem um investimento inicial significativo.
 
 • **Custo operacional (OpEx)**: Refere-se aos gastos contínuos para operar e manter os serviços de TI. Na computação em nuvem, os custos são mais previsíveis e escaláveis, pois você paga apenas pelo que usa, transformando grandes investimentos iniciais em despesas operacionais menores e contínuas.
